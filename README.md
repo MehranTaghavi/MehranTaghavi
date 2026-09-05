@@ -1,103 +1,93 @@
-<h1 align="center">Hi, I'm Mehran Taghavi 👋</h1>
-<h3 align="center">Software Engineer · Python Developer · Data Analyst (SQL) · Real-Time & Embedded Systems Specialist</h3>
+<h1 align="center">Hi, I'm Mehran Taghavi</h1>
+
+<p align="center">
+  <strong>Software Engineer · Python Developer · Data Analyst · Real-Time and Embedded Systems Researcher</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/MehranTaghavi">
-    <img src="https://img.shields.io/github/followers/MehranTaghavi?label=Follow&style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/badge/GitHub-MehranTaghavi-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/MehranTaghavi?tab=followers">
+    <img src="https://img.shields.io/github/followers/MehranTaghavi?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="mailto:mehran.taghavi75@sharif.edu">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🎯 About me
+## About Me
 
-Computer engineer with a strong foundation in algorithm design, software development, and data
-analysis — MSc graduate in Computer Engineering (Computer Architecture) from **Sharif University
-of Technology**.
+I am a computer engineer and software developer with a background in algorithm design, Python development, data analysis, and computer architecture. I hold an MSc in Computer Engineering from **Sharif University of Technology**.
 
-Over two years of experience as a **Teaching Assistant** at Sharif, reviewing and mentoring
-undergraduate projects: code review, debugging, and technical evaluation of software and
-hardware/software co-simulation projects. Mentored **30+ undergraduate students** on complex
-system-architecture and software projects.
+My work sits at the intersection of software and computer systems. I enjoy turning complex engineering problems into clear, testable, and practical solutions, with particular interest in real-time and embedded systems, scheduling algorithms, and system-level optimization.
 
-My research focus is **real-time and embedded systems**, specifically energy- and
-temperature-aware task scheduling, with papers under review at **IEEE TETC** and **IEEE TPDS**.
+I also have more than two years of experience as a Teaching Assistant at Sharif University of Technology, where I reviewed code, debugged software and hardware/software co-simulation projects, and mentored more than 30 undergraduate students.
 
-I'm comfortable translating complex engineering concepts into simple language and communicating
-effectively under the pressure of academic deadlines.
+## Research Interests
 
----
+- Real-time and embedded systems
+- Energy- and temperature-aware task scheduling
+- Heterogeneous and multicore architectures
+- Embedded and IoT systems
+- Algorithm design and optimization
+- Software and hardware/software co-simulation
 
-### 🔬 Research & publications
+## Research and Publications
 
-- **ETAGS: Energy and Temperature-Aware Graph-Based Scheduling in Heterogeneous Real-Time
-  Embedded Systems** — *under review*, IEEE Transactions on Emerging Topics in Computing (IEEE
-  TETC), 2025
-- **Thermal-Aware Gang Task Scheduling in Multicore IoT Devices** — *under review*, IEEE
-  Transactions on Parallel and Distributed Systems (IEEE TPDS), 2026
-- MSc thesis (2023): graph-based task scheduling algorithm optimizing energy consumption and
-  temperature distribution in heterogeneous embedded real-time systems while meeting strict task
-  deadlines
+- **ETAGS: Energy and Temperature-Aware Graph-Based Scheduling in Heterogeneous Real-Time Embedded Systems** — under review at *IEEE Transactions on Emerging Topics in Computing (IEEE TETC)*, 2025.
+- **Thermal-Aware Gang Task Scheduling in Multicore IoT Devices** — under review at *IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)*, 2026.
+- **MSc Thesis, 2023:** A graph-based task scheduling algorithm for heterogeneous embedded real-time systems, optimizing energy consumption and temperature distribution while satisfying strict task deadlines.
 
----
+## Technical Skills
 
-### 🛠️ Skills
+### Languages and Tools
 
-**Languages & tools**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Areas of Expertise
 
-**Domains**
+- Algorithm design, debugging, and technical problem solving
+- Real-time and embedded systems
+- Energy- and thermal-aware scheduling
+- Data analysis with SQL
+- Code review and software quality evaluation
+- Technical communication and mentoring
 
-`Real-time & embedded systems` · `Energy/thermal-aware scheduling` · `Data analysis` ·
-`Algorithm design` · `Code review & debugging`
+## Featured Projects
 
----
+- **[ATPG-PODEM_SCOAP](https://github.com/MehranTaghavi/ATPG-PODEM_SCOAP)** — A Python implementation of Automatic Test Pattern Generation using the PODEM algorithm and SCOAP testability analysis. It supports five-valued fault logic, ISCAS-style benchmark circuits, and single stuck-at faults.
+- **[sql-portfolio](https://github.com/MehranTaghavi/sql-portfolio)** — SQL exercises and data-analysis projects covering filtering, aggregation, `GROUP BY`, joins, subqueries, and common table expressions.
 
-### 👨‍🏫 Teaching experience
+## Teaching Experience
 
-**Teaching Assistant** — Sharif University of Technology, Tehran (Sep 2023 – Feb 2026)
-- Guided, mentored, and supervised 30+ undergraduate students on complex system-architecture and
-  software projects
-- Performed structural code review, debugging, and troubleshooting for student software and
-  hardware/software simulation projects
-- Evaluated and technically analyzed student projects in real-time systems, embedded systems, and
-  low-power design
-- Translated complex engineering concepts into accessible explanations for students under
-  academic time pressure
+**Teaching Assistant — Sharif University of Technology, Tehran***September 2023 – February 2026*
 
----
+- Mentored and supervised more than 30 undergraduate students.
+- Reviewed code and analyzed software and hardware/software co-simulation projects.
+- Helped students debug complex system-architecture and real-time software projects.
+- Evaluated projects in real-time systems, embedded systems, and low-power design.
+- Explained complex technical concepts clearly under demanding academic deadlines.
 
-### 📌 Featured repositories
+## Contact
 
-<!--
-  Pin these on your GitHub profile (Settings → Profile → Pinned repositories):
-  - sql-portfolio
-  - your energy/temperature-aware scheduling simulation repo (once created)
-  - this profile README repo
--->
-
-- 🗂️ **[sql-portfolio](https://github.com/MehranTaghavi/sql-portfolio)** — SQL exercises and
-  projects covering query fundamentals, GROUP BY, subqueries, CTEs, and joins, with a focus on
-  data analysis
-
----
-
-### 📫 Connect with me
-
-<p align="left">
+<p>
   <a href="mailto:mehran.taghavi75@sharif.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-mehran.taghavi75%40sharif.edu-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/Taghavi_Mehran">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-Taghavi__Mehran-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://instagram.com/sharif_eng_taghavi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-sharif__eng__taghavi-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
