@@ -65,7 +65,7 @@ I also have more than two years of experience as a Teaching Assistant at Sharif 
 ## Featured Projects
 
 - **[ATPG-PODEM_SCOAP](https://github.com/MehranTaghavi/ATPG-PODEM_SCOAP)** — A Python implementation of Automatic Test Pattern Generation using the PODEM algorithm and SCOAP testability analysis. It supports five-valued fault logic, ISCAS-style benchmark circuits, and single stuck-at faults.
-- **[sql-portfolio](https://github.com/MehranTaghavi/sql-portfolio)** — SQL exercises and data-analysis projects covering filtering, aggregation, `GROUP BY`, joins, subqueries, and common table expressions.
+- **[SQL-Server-DBA-Learning](https://github.com/MehranTaghavi/SQL-Server-DBA-Learning)** — A structured SQL Server DBA learning portfolio covering T-SQL, database fundamentals, performance tuning, backup and restore, security, high availability, ETL, and practical projects.
 
 ## Teaching Experience
 
