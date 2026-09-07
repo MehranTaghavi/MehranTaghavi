@@ -69,7 +69,8 @@ I also have more than two years of experience as a Teaching Assistant at Sharif 
 
 ## Teaching Experience
 
-**Teaching Assistant — Sharif University of Technology, Tehran***September 2023 – February 2026*
+**Teaching Assistant — Sharif University of Technology, Tehran**  
+*September 2023 – February 2026*
 
 - Mentored and supervised more than 30 undergraduate students.
 - Reviewed code and analyzed software and hardware/software co-simulation projects.
