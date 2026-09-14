@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Mehran Taghavi</h1>
 
 <p align="center">
+  <img src="./Profile.jpg" alt="Mehran Taghavi profile poster" width="800" />
+</p>
+
+<p align="center">
   <strong>Software Engineer · Python Developer · Data Analyst · Real-Time and Embedded Systems Researcher</strong>
 </p>
 
