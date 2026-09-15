@@ -73,6 +73,7 @@ I also have more than two years of experience as a Teaching Assistant at Sharif 
 - **[ERS-VLSID-2024-Reproduction](https://github.com/MehranTaghavi/ERS-VLSID-2024-Reproduction)** — A rigorous, from-scratch reproduction of the ESUM and ERS energy-aware real-time DAG scheduling algorithms from a VLSID 2024 paper, including a documented analysis of discrepancies found between the paper and its own published results.
 - **[energy-aware-standby-sparing](https://github.com/MehranTaghavi/energy-aware-standby-sparing)** — A modular Python implementation of energy-aware standby-sparing scheduling on heterogeneous multicore systems (DVFS + standby-sparing fault tolerance), inspired by a DAC 2017 paper.
 - **[fp32-convolution-core-ipcore-vs-custom](https://github.com/MehranTaghavi/fp32-convolution-core-ipcore-vs-custom)** — An FPGA/ASIC design project implementing a 32-bit IEEE-754 convolution accelerator in Verilog, comparing custom floating-point RTL against Xilinx Core IP across area, timing, and power.
+- **[dba-automation-toolkit](https://github.com/MehranTaghavi/dba-automation-toolkit)** — A Python-based DBA Automation Toolkit designed to automatically monitor SQL Server database health, detect performance bottlenecks, verify backup status, and send real-time alerts.
 
 ## Teaching Experience
 
