@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a computer engineer and software developer with a background in algorithm design, Python development, data analysis, and computer architecture. I hold an MSc in Computer Engineering from **Sharif University of Technology**.
+I am a computer engineer and software developer with a background in algorithm design, Python development, data analysis, and computer architecture. I hold an MSc in Computer Engineering from Sharif University of Technology, where I carried out my research at the CPSLab (Cyber-Physical Systems Lab) and ESRLab (Embedded Systems Research Lab).
 
 My work sits at the intersection of software and computer systems. I enjoy turning complex engineering problems into clear, testable, and practical solutions, with particular interest in real-time and embedded systems, scheduling algorithms, and system-level optimization.
 
@@ -81,6 +81,7 @@ I also have more than two years of experience as a Teaching Assistant at Sharif 
 - **[SQL-Server-DBA-Learning](https://github.com/MehranTaghavi/SQL-Server-DBA-Learning)** — A structured SQL Server learning portfolio covering T-SQL fundamentals through joins, subqueries, CTEs, window functions, and stored procedures, plus DBA topics: backup/restore, security, performance tuning, and high availability.
 - **[ATPG-PODEM_SCOAP](https://github.com/MehranTaghavi/ATPG-PODEM_SCOAP)** — A Python implementation of Automatic Test Pattern Generation using the PODEM algorithm and SCOAP testability analysis. Supports four-valued fault logic, ISCAS-style benchmark circuits, and single stuck-at faults.
 - **[ERS-VLSID-2024-Reproduction](https://github.com/MehranTaghavi/ERS-VLSID-2024-Reproduction)** — A rigorous, from-scratch reproduction of the ESUM and ERS energy-aware real-time DAG scheduling algorithms from a VLSID 2024 paper, including a documented analysis of discrepancies found between the paper and its own published results.
+- **[tmds-dag-scheduling](https://github.com/MehranTaghavi/tmds-dag-scheduling)** — A rigorous Python implementation and scientific audit of the TMDS (Temperature-aware Makespan Minimizing DAG Scheduler) algorithm for heterogeneous distributed systems, identifying and correcting three mathematical/logical errors found in the original paper's equations and worked example.
 - **[energy-aware-standby-sparing](https://github.com/MehranTaghavi/energy-aware-standby-sparing)** — A modular Python implementation of energy-aware standby-sparing scheduling on heterogeneous multicore systems (DVFS + standby-sparing fault tolerance), inspired by a DAC 2017 paper.
 - **[fp32-convolution-core-ipcore-vs-custom](https://github.com/MehranTaghavi/fp32-convolution-core-ipcore-vs-custom)** — An FPGA/ASIC design project implementing a 32-bit IEEE-754 convolution accelerator in Verilog, comparing custom floating-point RTL against Xilinx Core IP across area, timing, and power.
 - **[dba-automation-toolkit](https://github.com/MehranTaghavi/dba-automation-toolkit)** — A Python-based DBA Automation Toolkit designed to automatically monitor SQL Server database health, detect performance bottlenecks, verify backup status, and send real-time alerts.
