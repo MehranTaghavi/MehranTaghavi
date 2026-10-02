@@ -15,6 +15,13 @@
   <a href="https://github.com/MehranTaghavi?tab=followers">
     <img src="https://img.shields.io/github/followers/MehranTaghavi?label=Followers&style=flat&logo=github" alt="GitHub followers" />
   </a>
+    </a>
+  <a href="https://github.com/MehranTaghavi?tab=followers">
+    <img src="https://img.shields.io/github/followers/MehranTaghavi?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehran-taghavi-afkham">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
   <a href="mailto:mehran.taghavi75@sharif.edu">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
